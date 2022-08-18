@@ -45,3 +45,7 @@ def decode_char(morse_code)
 end
 
 decode_char(".-")
+
+def decode_word(morse_code)
+    morse_char = 
+end
